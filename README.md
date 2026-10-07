@@ -1,3 +1,6 @@
+<img width="927" height="706" alt="image" src="https://github.com/user-attachments/assets/37d40ce4-84df-4332-ad2e-1d5a6a4c9de9" />
+
+
 # HamTec G90 touchscreen controller — version 0.1
 
 Local Raspberry Pi 4 controller for a ROADOM 1024×600 HDMI touchscreen.
